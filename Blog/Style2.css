@@ -1,0 +1,29 @@
+body{
+    margin: 0;
+    padding: 100px;
+    /* background-color: skyblue; */
+    font-family: cursive,Arial, Helvetica, sans-serif;
+    color: black;
+    background-color: rgb(red, green, blue);
+}
+/* h1{
+    color: red;
+    font-size: 24px;
+    font-weight: 200;
+    text-align: center;
+    text-decoration: underline;
+    background-color: lightblue;   
+} */
+
+header{
+    color: black;
+    background-color: azure;
+}
+
+div{
+    background-color: lawngreen;
+    width: 400px;
+    height: 200px;
+    border-radius: 50%;
+    text-align: center;
+}
